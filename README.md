@@ -68,5 +68,7 @@ Phone: 512-626-1240
 Mr. Lynden Rosier (Computer Science Teacher)
 Email: lrosier@eanesisd.net 
 Phone: 512-732 -9280
-![image](https://github.com/adam8687/adam8687.github.io/assets/75269836/30e9785f-2bbd-4929-938f-066c3159b1a0)
+
+
+![image](https://github.com/adam8687/adam8687.github.io/assets/75269836/c912babd-2d28-4c62-b951-1427a1ffaba4)
 
